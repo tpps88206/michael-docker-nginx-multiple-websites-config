@@ -1,2 +1,5 @@
-# docker-nginx-multiple-websites-config
-The config file of nginx with the multiple websites in docker
+# Docker Nginx Multiple Websites Config
+
+With normal website : https://wordpress.micheh.com/archives/14
+
+With SSL website : https://wordpress.micheh.com/archives/74
